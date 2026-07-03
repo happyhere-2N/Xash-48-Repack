@@ -26,7 +26,7 @@ Repack xash old engine libs and apks for all softwers build from FWGS-tyabus-min
 
 **-fwgs-build**
 
-**-tyabus-build**
+**-[tyabus-build](https://github.com/tyabus)**
 
 
 # links on [releases](https://github.com/FWGS/xash3d-fwgs)
